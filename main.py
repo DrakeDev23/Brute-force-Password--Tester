@@ -34,7 +34,7 @@ def drake_ascii():
 def fast_brute_force():
     drake_ascii()
     print("\n" + "="*60)
-    print("BRUTE FORCE SIMULATOR")
+    print("BRUTE FORCE")
     print("="*60)
     
     print("\nEnter a password to crack:")
