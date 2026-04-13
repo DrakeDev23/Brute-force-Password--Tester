@@ -274,6 +274,7 @@ def interactive_menu():
     while True:
         print("\n" + "="*50)
         print("BRUTE FORCE MENU")
+        print("By: DrakeDev23")
         print("="*50)
         print("1. Fast crack (direct length search)")
         print("2. Smart crack (common patterns first)")
