@@ -300,7 +300,6 @@ def interactive_menu():
             print("Invalid choice")
         
         input("\nPress Enter to continue...")
-#sads
 if __name__ == "__main__":
     multiprocessing.freeze_support()
     interactive_menu()
